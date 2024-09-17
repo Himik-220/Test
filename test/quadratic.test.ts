@@ -26,3 +26,5 @@ describe('MathBase.solveQuadraticEquation', () => {
     expect(result.x2).toBeNull(); // Второго корня нет
   });
 });
+
+// Leonid Romanov done test
